@@ -1,5 +1,5 @@
 {
-  "name": "pyhowww",
+  "name": "payhow-teste",
   "version": "1.0.0",
   "description": "Teste implementação de pacotes npm",
   "main": "index.js",
@@ -13,8 +13,8 @@
   "keywords": [
     "payhow-teste"
   ],
-  "author": "walter",
-  "license": "MIT",
+  "author": "walteryoshio",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/walteryoshio/payhow-teste/issues"
   },
