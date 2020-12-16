@@ -10,9 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/walteryoshio/payhow-teste.git"
   },
-  "keywords": ["payhow-teste"],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "payhow-teste"
+  ],
+  "author": "walter",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/walteryoshio/payhow-teste/issues"
   },

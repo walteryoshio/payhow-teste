@@ -1,6 +1,8 @@
 function teste(value){
 
-    return (value)
+    const mult = value * value
+
+    return (mult)
 
 }
 module.exports = {
