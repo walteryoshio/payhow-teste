@@ -1,1 +1,1 @@
-Teste implementação de pacotes npm
+Teste implementação de pacotes npm.
