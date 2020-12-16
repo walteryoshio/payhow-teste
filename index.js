@@ -4,7 +4,8 @@ function formatCep(value){
     .slice(0,8)
     .replace(/\d{5}{\d}/, "$1-$2")
 }
-console.log(formatCep(564156))
+
+
 module.exports = {
-    formatCep
+    formatCep,
 }
